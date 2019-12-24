@@ -15,4 +15,4 @@
 TVをつけるときは数学の問題を解かなくてはいけません。　　
 
 ## 技術
-<img src="Polaris/スライド7.png" width="100%">
+<img src="Polaris/slide7.png" width="100%">
